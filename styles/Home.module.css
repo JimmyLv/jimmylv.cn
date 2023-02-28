@@ -1,3 +1,9 @@
+@media (max-width: 768px) {
+  .main {
+    padding: 0 !important;
+  }
+}
+
 .main {
   display: flex;
   flex-direction: column;
@@ -72,12 +78,19 @@
   max-width: 30ch;
 }
 
+.slogan {
+  margin-top: -50px;
+  margin-bottom: 20px;
+  font-family: var(--font-mono);
+}
+
 .center {
   display: flex;
   justify-content: center;
   align-items: center;
   position: relative;
   padding: 4rem 0;
+  font-family: var(--font-mono);
 }
 
 .center::before {
@@ -113,7 +126,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 75px;
+  /*width: 75px;*/
   height: 75px;
   padding: 25px 10px;
   margin-left: 16px;
