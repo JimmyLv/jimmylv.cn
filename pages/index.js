@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import { Inter } from 'next/font/google'
 import styles from '@/styles/Home.module.css'
-
+// https://www.youtube.com/@jimmy_jinglv/?sub_confirmation=1
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
