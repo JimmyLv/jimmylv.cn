@@ -37,7 +37,7 @@ export default function Home() {
             <h1>All In</h1>
           </div>
         </div>
-        <h1 className={styles.slogan}>Prompt, Share, Build</h1>
+        <h1 className={styles.slogan}>Prompt, Publish, Profit</h1>
 
         <div className={styles.grid}>
           <a
