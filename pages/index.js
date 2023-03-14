@@ -50,7 +50,7 @@ export default function Home() {
               Twitter <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Find in-depth information about JimmyLv.
+              Quick find immature ideas from JimmyLv.
             </p>
           </a>
 
@@ -61,10 +61,10 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Bilibili <span>-&gt;</span>
+              Video <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Learn about JimmyLv in interactive videos!
+              Learn more about JimmyLv in interactive videos!
             </p>
           </a>
 
@@ -78,7 +78,7 @@ export default function Home() {
               Blog <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Discover and deploy more content from JimmyLv.
+              Discover more in-depth content from JimmyLv.
             </p>
           </a>
 
