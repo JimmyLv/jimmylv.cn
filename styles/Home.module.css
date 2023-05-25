@@ -85,6 +85,15 @@
   font-family: var(--font-mono);
 }
 
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+.footer:hover {
+  color: deepskyblue;
+}
 .center {
   display: flex;
   justify-content: center;

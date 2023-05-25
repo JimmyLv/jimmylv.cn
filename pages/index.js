@@ -97,6 +97,9 @@ export default function Home() {
           </a>
         </div>
       </main>
+      <footer className={styles.footer}>
+        <a href="https://beian.miit.gov.cn/" target="_blank">蜀ICP备2023004627号-1</a>
+      </footer>
     </>
   )
 }
