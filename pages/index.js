@@ -17,7 +17,7 @@ export default function Home() {
         <div className={styles.description}>
           <p>
             Reach me
-            <a href="https://twitter.com/Jimmy_JingLv" target="_blank"><code className={styles.code}>@Twitter</code></a>
+            <a href="mailto:jimmy.jinglv@gmail.com" target="_blank"><code className={styles.code}>📧 Email</code></a>
           </p>
           <div>
             <a
