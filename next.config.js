@@ -7,6 +7,14 @@ const nextConfig = {
         source: '/info',
         destination: 'https://jimmylv.feishu.cn/docx/PguGdbTTXo93bExb1docMruNnGd',
         permanent: true,
+      },{
+        source: '/b',
+        destination: 'https://space.bilibili.com/37648256',
+        permanent: true,
+      },{
+        source: '/bilibili',
+        destination: 'https://space.bilibili.com/37648256',
+        permanent: true,
       },
       {
         source: '/fox',
