@@ -1,8 +1,8 @@
-import Head from 'next/head'
-import { Inter } from 'next/font/google'
-import styles from '@/styles/Home.module.css'
+import Head from "next/head";
+import { Inter } from "next/font/google";
+import styles from "@/styles/Home.module.css";
 // https://www.youtube.com/@jimmy_jinglv/?sub_confirmation=1
-const inter = Inter({ subsets: ['latin'] })
+const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
   return (
@@ -21,12 +21,11 @@ export default function Home() {
           </p>
           <div>
             <a
-              href="https://github.com/JimmyLv/jimmylv.cn"
+              href="https://jike.city/jimmylv"
               target="_blank"
               rel="noopener noreferrer"
             >
-              By{' '}
-              <h1>JimmyLv</h1>
+              by <h1>JimmyLv</h1>
             </a>
           </div>
         </div>
@@ -98,8 +97,10 @@ export default function Home() {
         </div>
       </main>
       <footer className={styles.footer}>
-          <a href="https://beian.miit.gov.cn/" target="_blank">蜀ICP备2023004627号</a>
+        <a href="https://beian.miit.gov.cn/" target="_blank">
+          蜀ICP备2023004627号
+        </a>
       </footer>
     </>
-  )
+  );
 }
