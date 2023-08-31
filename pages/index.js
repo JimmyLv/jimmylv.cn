@@ -75,7 +75,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Blog <span>-&gt;</span>
+              Article <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
               Discover more in-depth content from JimmyLv.
